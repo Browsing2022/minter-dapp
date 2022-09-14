@@ -53,7 +53,7 @@ const CHAIN = 'rinkeby'; // only rinkeby, polygon, or ethereum
 // REQUIRED CONTRACT DETAILS THAT CANNOT BE UPDATED LATER!
 const CONTRACT_NAME = 'noughts and crosses';
 const CONTRACT_SYMBOL = 'COX';
-const METADATA_UPDATABLE = true; // set to false if you don't want to allow metadata updates after minting
+const METADATA_UPDATABLE = false; // set to false if you don't want to allow metadata updates after minting
 const OWNER_ADDRESS = '0xe3fE29d1270455Ec66772eAc17a4CeC8be922f88';
 const TREASURY_ADDRESS = '0xe3fE29d1270455Ec66772eAc17a4CeC8be922f88';
 const MAX_SUPPLY = 5000; // The maximum number of NFTs that can be minted. CANNOT BE UPDATED!
