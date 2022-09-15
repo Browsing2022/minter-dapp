@@ -3,7 +3,7 @@ const chain = 'rinkeby'; // rinkeby, polygon, or ethereum
 
 const welcome_h1 = "Welcome to the first Mintingames NFT Project... Noughts and Crosses!!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
-const welcome_p = 'Noughts and Crosses is the genesis nft collection for mintingames, during mint we will be giving away 20,000 matic!';
+const welcome_p = 'during mint we will be giving away 20,000 matic!';
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
 const h1_presale_mint = "Pre-Sale Minting Open!!";
 const h1_public_mint = "Public Minting Open!!";
