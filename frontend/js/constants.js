@@ -1,8 +1,8 @@
 const contractAddress = "0x320Cd56ed5C55aAC76943B90B505A5a39019e690"; // Replace with your own contract address
 const chain = 'rinkeby'; // rinkeby, polygon, or ethereum
 
-const welcome_h1 = "Welcome to the first Mintingames NFT Project... Noughts and Crosses!!";
-const welcome_h2 = "Connect to MetaMask to Get Started";
+const welcome_h1 = "Welcome to Noughts and Crosses! the first mint from mintingames!";
+const welcome_h2 = "400Matic give away every 100 mints!";
 const welcome_p = 'during mint we will be giving away 20,000 matic!';
 const h1_presale_coming_soon = "NFT Coming Soon!!";
 const h1_presale_mint = "Pre-Sale Minting Open!!";
