@@ -1,5 +1,5 @@
 const contractAddress = "0x320Cd56ed5C55aAC76943B90B505A5a39019e690"; // Replace with your own contract address
-const chain = 'rinkeby'; // rinkeby, polygon, or ethereum
+const chain = 'polygon'; // rinkeby, polygon, or ethereum
 
 const welcome_h1 = " lets join forces and spread the word, Its time to put a stop to the CryptoTaxman!";
 const welcome_h2 = "Welcome to the begining of the end! Connect to Metamask to stop the Cyrptotaxman"
